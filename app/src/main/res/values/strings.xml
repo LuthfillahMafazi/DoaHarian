@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Do\'a Harian</string>
+    <string-array name="doa_tidur">
+        <item>Doa Sebelum Tidur</item>
+        <item>Doa Bangun Tidur</item>
+    </string-array>
+    <string-array name="arab_tidur">
+        <item>بِسْمِكَ اللّٰهُمَّ اَحْيَا وَاَمُوْتُ</item>
+        <item>اَلْحَمْدُ ِللهِ الَّذِىْ اَحْيَانَا بَعْدَمَآ اَمَاتَنَا وَاِلَيْهِ النُّشُوْرُ</item>
+    </string-array>
+    <string-array name="detail_tidur">
+        <item>Bismikallohumma ahya wa amuutu
+
+Artinya: "Dengan menyebut nama-Mu ya Allah, aku hidup dan aku mati".</item>
+        <item>Alhamdu lillahil ladzii ahyaanaa ba'da maa amaa tanaa wa ilahin nusyuuru
+
+Artinya : "Segala puji bagi Allah yang telah menghidupkan kami sesudah kami mati (membangunkan dari tidur) dan hanya kepada-Nya kami dikembalikan"</item>
+    </string-array>
+    <string-array name="doa_wc">
+        <item>Doa Sebelum Masuk Kamar Mandi</item>
+        <item>Doa Setelah Masuk Kamar Mandi</item>
+    </string-array>
+    <string-array name="arab_wc">
+        <item>اَللّٰهُمَّ اِنّىْ اَعُوْذُبِكَ مِنَ الْخُبُثِ وَالْخَبَآئِثِ</item>
+        <item>غُفْرَانَكَ الْحَمْدُ ِللهِ الَّذِىْ اَذْهَبَ عَنّى اْلاَذَى وَعَافَانِىْ</item>
+    </string-array>
+    <string-array name="detail_wc">
+        <item>Alloohumma Innii a'uudzubika minal khubutsi wal khoaaitsi
+
+Artinya: "Ya Allah, aku berlindung pada-Mu dari godaan syetan  laki-laki dan syetan perempuan"</item>
+        <item>Ghufraanaka. Alhamdulillaahil ladzii adzhaba ‘annjil adzaa wa’aafaanii.
+
+Artinya: "Dengan mengharap ampunanMu, segala puji milik Allah yang telah menghilangkan kotoran dari badanku dan yang telah menyejahterakan."</item>
+    </string-array>
+    <string-array name="doa_makan">
+        <item>Doa Sebelum Makan</item>
+        <item>Doa Setelah Makan</item>
+    </string-array>
+    <string-array name="arab_makan">
+        <item>اَللّٰهُمَّ بَارِكْ لَنَا فِيْمَا رَزَقْتَنَا وَقِنَا عَذَابَ النَّارِ</item>
+        <item>اَلْحَمْدُ ِللهِ الَّذِىْ اَطْعَمَنَا وَسَقَانَا وَجَعَلَنَا مُسْلِمِيْنَ</item>
+    </string-array>
+    <string-array name="detail_makan">
+        <item>Alloohumma barik lanaa fiimaa razatanaa waqinaa 'adzaa bannar
+
+Artinya: "Ya Allah, berkahilah kami dalam rezeki yang telah Engkau berikan kepada kami dan peliharalah kami dari siksa api neraka"</item>
+        <item>Alhamdu lillaahil ladzii ath'amanaa wa saqoonaa wa ja'alnaa muslimiin
+
+Artinya: "Segala puji bagi Allah yang telah memberi makan kami dan minuman kami, serta menjadikan kami sebagai orang-orang islam"</item>
+    </string-array>
+    <string-array name="doa_masjid">
+        <item>Doa Sebelum Masjid</item>
+        <item>Doa Setelah Masjid</item>
+    </string-array>
+    <string-array name="arab_masjid">
+        <item>اَللّٰهُمَّ افْتَحْ لِيْ اَبْوَابَ رَحْمَتِكَ</item>
+        <item>اَللّٰهُمَّ اِنِّى اَسْأَلُكَ مِنْ فَضْلِكَ</item>
+    </string-array>
+    <string-array name="detail_masjid">
+        <item>Allahummaf tahlii abwaaba rohmatik
+
+Artinya: "Ya Allah, bukalah untukku pintu-pintu rahmat-Mu"</item>
+        <item>Allahumma innii asaluka min fadlik
+
+Artinya: "Ya Allah, sesungguhnya aku memohon keutamaan dari-Mu"
+</item>
+    </string-array>
+</resources>
